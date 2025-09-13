@@ -14,6 +14,9 @@ I **love programming** and exploring new technologies! 🚀
 - Interests: AI, Game Development, Web Development
 
 ---
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 [![Yaman's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=CyberHuman-bot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/CyberHuman-bot)
