@@ -1,9 +1,6 @@
 ## Hi there 👋
 I am **Yaman**  
-A 6th-grade student from **Iraq**  
-
-<img width="474" height="315" alt="Coding Image" src="https://github.com/user-attachments/assets/b4d60420-ece1-4a24-83de-bac073131de4" />
-
+A 6th-grade student in a **Sabis School**
 I **love programming** and exploring new technologies! 🚀
 
 ---
